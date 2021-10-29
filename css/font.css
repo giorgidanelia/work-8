@@ -10,3 +10,30 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('fonts/ArialNarrow-Bold.eot');
+    src: url('fonts/ArialNarrow-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ArialNarrow-Bold.woff2') format('woff2'),
+        url('fonts/ArialNarrow-Bold.woff') format('woff'),
+        url('fonts/ArialNarrow-Bold.ttf') format('truetype'),
+        url('fonts/ArialNarrow-Bold.svg#ArialNarrow-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fontsRaleway-SemiBold.eot');
+    src: url('fontsRaleway-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fontsRaleway-SemiBold.woff2') format('woff2'),
+        url('fontsRaleway-SemiBold.woff') format('woff'),
+        url('fontsRaleway-SemiBold.ttf') format('truetype'),
+        url('fontsRaleway-SemiBold.svg#Raleway-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
